@@ -1,0 +1,1 @@
+console.log("Welcome in GraphQL server","Chyba działa");
